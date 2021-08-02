@@ -11,6 +11,7 @@
 		FB02E6A026B3B897009A5049 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02E69F26B3B897009A5049 /* ContentView.swift */; };
 		FB02E6A226B3B899009A5049 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02E6A126B3B899009A5049 /* Assets.xcassets */; };
 		FB02E6A526B3B899009A5049 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02E6A426B3B899009A5049 /* Preview Assets.xcassets */; };
+		FB02E6AF26B3BF6A009A5049 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02E6AE26B3BF6A009A5049 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FB02E6A126B3B899009A5049 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB02E6A426B3B899009A5049 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB02E6A626B3B899009A5049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB02E6AE26B3BF6A009A5049 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				FB02E69F26B3B897009A5049 /* ContentView.swift */,
 				FB02E6A126B3B899009A5049 /* Assets.xcassets */,
 				FB02E6A626B3B899009A5049 /* Info.plist */,
+				FB02E6AE26B3BF6A009A5049 /* SwiftyJSON.swift */,
 				FB02E6A326B3B899009A5049 /* Preview Content */,
 			);
 			path = "API Calling";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB02E6AF26B3BF6A009A5049 /* SwiftyJSON.swift in Sources */,
 				FB02E6A026B3B897009A5049 /* ContentView.swift in Sources */,
 				FB02E69E26B3B897009A5049 /* API_CallingApp.swift in Sources */,
 			);
